@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "tia-paywall",
+  "scope": "tia-paywall",
   "alias": "tia-paywall",
   "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
