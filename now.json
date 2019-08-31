@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "scope": "tia-paywall",
-  "alias": "tia-paywall",
+  "alias": "free-tia",
   "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
