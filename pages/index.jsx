@@ -83,6 +83,11 @@ const Index = () => {
           button {
             border: 1px solid #444444;
           }
+          img {
+            max-width: 100%;
+            object-fit: contain;
+            height: auto;
+          }
         `}
       </style>
     </div>
