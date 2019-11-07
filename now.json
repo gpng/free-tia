@@ -1,5 +1,4 @@
 {
   "version": 2,
-  "alias": "free-tia",
-  "builds": [{ "src": "next.config.js", "use": "@now/next" }]
+  "alias": "free-tia"
 }
